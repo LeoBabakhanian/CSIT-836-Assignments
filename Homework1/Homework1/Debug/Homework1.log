@@ -1,0 +1,5 @@
+﻿F:\Program Files x86\Visual Studio 2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Homework1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Test.cpp
+  Date.cpp
+  Generating Code...
+  Homework1.vcxproj -> F:\Computer Science\Data Structures\Homework1\Debug\Calendar.exe
