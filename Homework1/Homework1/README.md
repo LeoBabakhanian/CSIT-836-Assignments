@@ -1,1 +1,0 @@
-This project asks for a date from the user. If the user is a valid date and is between the years of 1900 and 2018, it will be printed the for the user. If it is an invalid date, the default date of 9/1/2018 will be printed.
