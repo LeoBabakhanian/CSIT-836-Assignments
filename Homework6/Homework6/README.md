@@ -1,0 +1,1 @@
+This program is also similar to assignment #4 that uses the PersonRec structure. It allows the user to enter students with their corresponding bribe amounts and then sort them using either BubbleSort or QuickSort. BubbleSort lists the bribes in ascending order while QuickSort lists them in descending order.
