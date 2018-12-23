@@ -1,0 +1,1 @@
+This assignment evaluates expressions that are entered by the user and tells them if they are valid or invalid. The expression must contain the symbols '{','},'(',')','[' and ']' to be valid. An example of a valid expression is: {{{{[(({}))]}}}}.
