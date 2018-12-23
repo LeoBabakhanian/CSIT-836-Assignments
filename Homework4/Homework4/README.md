@@ -1,0 +1,1 @@
+This program allows the user to enter students and corresponding bribe amounts into a list. If a student gives a higher bribe amount, they will be placed at a higher position in the list. However, if a duplicate bribe amount is called, the student who entered their bribe first will be placed at a higher position.
