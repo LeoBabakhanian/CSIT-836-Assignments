@@ -1,0 +1,1 @@
+This program does the same thing as assignment #4 but it does not accept duplicate bribe amounts. The program uses a binary tree which cannot hold duplicate values and will tell the user that they have entered the bribe for another student.
