@@ -1,0 +1,1 @@
+This program allows the user to book a plane to the limit of 3 seats. Once the plane is fully booked, the passengers that are added will be placed on the waiting list. If any of the passengers are removed from the booked list, the passengers from the waiting list will shift in order to fill up the seats.
