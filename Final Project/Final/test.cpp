@@ -78,11 +78,7 @@ int main()
 		s->makeEmpty();
 		q->makeEmpty();
 	}
-	//my input is not matching with condezinger because the user input is not showing at the
-	//end of each line!! I'm not sure how to fix this, it's a minor error but it shows up as
-	//all of my test cases failing except for the first
-	//fixed^^^
-
+	
 	//system("PAUSE");
 	return 0;
 }
